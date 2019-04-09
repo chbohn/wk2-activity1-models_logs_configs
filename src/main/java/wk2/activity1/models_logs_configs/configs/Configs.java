@@ -95,6 +95,7 @@ public class Configs {
         ServiceLogger.LOGGER.config("Scheme: " + scheme);
         ServiceLogger.LOGGER.config("Hostname: " + hostName);
         ServiceLogger.LOGGER.config("Port: " + port);
+        ServiceLogger.LOGGER.config("Path: " + path);
         ServiceLogger.LOGGER.config("Logger output directory: " + outputDir);
         ServiceLogger.LOGGER.config("Logger output file: " + outputFile);
     }
